@@ -1,0 +1,3 @@
+python "C:\Users\DACENTER\Downloads\neural_network_console\libs\Python\Lib\site-packages\nnabla\utils\cli\cli.py" forward -c "C:\Users\DACENTER\Desktop\1_detector.nnp" -d "D:\dataset.csv" -o "D:\1_detector\results" --replace_path
+python "C:\Users\DACENTER\Downloads\neural_network_console\libs\Python\Lib\site-packages\nnabla\utils\cli\cli.py" forward -c "C:\Users\DACENTER\Desktop\2_detector.nnp" -d "D:\dataset.csv" -o "D:\2_detector\results" --replace_path
+python "C:\Users\DACENTER\Downloads\neural_network_console\libs\Python\Lib\site-packages\nnabla\utils\cli\cli.py" forward -c "C:\Users\DACENTER\Desktop\0_detector.nnp" -d "D:\dataset.csv" -o "D:\0_detector\results" --replace_path
